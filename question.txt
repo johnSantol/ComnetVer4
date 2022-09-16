@@ -1,0 +1,210 @@
+During a routine inspection, a technician discovered that software that was installed on a computer was secretly collecting data about websites that were visited by users of the computer. Which type of threat is affecting this computer?;
+DoS attack​;
+identity theft;
+spyware;
+zero-day attack;
+spyware;
+|
+Which term refers to a network that provides secure access to the corporate offices by suppliers, customers and collaborators?;
+Internet;
+intranet;
+extranet;
+extendednet;
+extranet;
+|
+A large corporation has modified its network to allow users to access network resources from their personal laptops and smart phones. Which networking trend does this describe?;
+cloud computing;
+online collaboration;
+bring your own device;
+video conferencing;
+bring your own device;
+|
+What is an ISP?;
+It is a standards body that develops cabling and wiring standards for networking.;
+It is a protocol that establishes how computers within a local network communicate.;
+It is an organization that enables individuals and businesses to connect to the Internet.;
+It is a networking device that combines the functionality of several different networking devices in one.;
+It is an organization that enables individuals and businesses to connect to the Internet.;
+|
+An employee at a branch office is creating a quote for a customer. In order to do this, the employee needs to access confidential pricing information from internal servers at the Head Office. What type of network would the employee access?;
+an intranet;
+the Internet;
+an extranet;
+a local area network;
+an intranet;
+|
+Which statement describes the use of powerline networking technology?;
+New “smart” electrical cabling is used to extend an existing home LAN.;
+A home LAN is installed without the use of physical cabling.;
+A device connects to an existing home LAN using an adapter and an existing electrical outlet.;
+Wireless access points use powerline adapters to distribute data through the home LAN;
+A device connects to an existing home LAN using an adapter and an existing electrical outlet.;
+|
+A networking technician is working on the wireless network at a medical clinic. The technician accidentally sets up the wireless network so that patients can see the medical records data of other patients. Which of the four network characteristics has been violated in this situation?;
+fault tolerance;
+scalability;
+security;
+Quality of Service (QoS);
+security;
+|
+What type of network traffic requires QoS?;
+email;
+on-line purchasing;
+video conferencing;
+wiki;
+video conferencing;
+|
+Which interface allows remote management of a Layer 2 switch?;
+the AUX interface;
+the console port interface;
+the switch virtual interface;
+the first Ethernet port interface;
+the switch virtual interface;
+|
+What function does pressing the Tab key have when entering a command in IOS?;
+It aborts the current command and returns to configuration mode.;
+It exits configuration mode and returns to user EXEC mode.;
+It moves the cursor to the beginning of the next line.;
+It completes the remainder of a partially typed word in a command.;
+It completes the remainder of a partially typed word in a command.;
+|
+While trying to solve a network issue, a technician made multiple changes to the current router configuration file.The changes did not solve the problem and were not saved. What action can the technician take to discard the changes and work with the file in NVRAM?;
+Issue the reload command without saving the running configuration.;
+Delete the vlan.dat file and reboot the device.;
+Close and reopen the terminal emulation software.;
+Issue the copy startup-config running-config command.;
+Issue the reload command without saving the running configuration.;
+|
+An administrator uses the Ctrl-Shift-6 key combination on a switch after issuing the ping command. What is the purpose of using these keystrokes?;
+to restart the ping process;
+to interrupt the ping process;
+to exit to a different configuration mode;
+to allow the user to complete the command;
+to interrupt the ping process;
+|
+ Which command or key combination allows a user to return to the previous level in the command hierarchy?;
+end;
+exit;
+Ctrl-Z;
+Ctrl-C;
+exit;
+|
+What command is used to verify the condition of the switch interfaces, including the status of the interfaces and a configured IP address?;
+ipconfig;
+ping;
+traceroute;
+show ip interface brief;
+show ip interface brief;
+|
+In the show running-config command, which part of the syntax is represented by running-config ?;
+the command;
+a keyword;
+a variable;
+a prompt;
+a keyword;
+|
+After making configuration changes on a Cisco switch, a network administrator issues a copy running-config startup-config command. What is the result of issuing this command?;
+The new configuration will be stored in flash memory.;
+The new configuration will be loaded if the switch is restarted.;
+The current IOS file will be replaced with the newly configured file.;
+The configuration changes will be removed and the original configuration will be restored.;
+The new configuration will be loaded if the switch is restarted.;
+|
+What command will prevent all unencrypted passwords from displaying in plain text in a configuration file?;
+(config)# enable password secret;
+(config)# enable secret Secret_Password;
+(config)# service password-encryption;
+(config)# enable secret Encrypted_Password;
+(config)# service password-encryption;
+|
+A network administrator enters the service password-encryption command into the configuration mode of a router. What does this command accomplish?;
+This command encrypts passwords as they are transmitted across serial WAN links.;
+This command prevents someone from viewing the running configuration passwords.;
+This command enables a strong encryption algorithm for the enable secret password command.;
+This command automatically encrypts passwords in configuration files that are currently stored in NVRAM.;
+This command prevents someone from viewing the running configuration passwords.;
+|
+What method can be used by two computers to ensure that packets are not dropped because too much data is being sent too quickly?;
+encapsulation;
+flow control;
+access method;
+response timeout;
+flow control;
+|
+Which statement accurately describes a TCP/IP encapsulation process when a PC is sending data to the network?;
+Data is sent from the internet layer to the network access layer.;
+Packets are sent from the network access layer to the transport layer.;
+Segments are sent from the transport layer to the internet layer.;
+Frames are sent from the network access layer to the internet layer.;
+Segments are sent from the transport layer to the internet layer.;
+|
+Which name is assigned to the transport layer PDU?;
+bits;
+data;
+packet;
+segment;
+segment;
+|
+When IPv4 addressing is manually configured on a web server, which property of the IPv4 configuration identifies the network and host portion for an IPv4 address?;
+DNS server address;
+subnet mask;
+default gateway;
+DHCP server address;
+subnet mask;
+|
+What process involves placing one PDU inside of another PDU?;
+encapsulation;
+encoding;
+segmentaion;
+flow control;
+encapsulation;
+|
+What layer is responsible for routing messages through an internetwork in the TCP/IP model?;
+internet;
+transport;
+network access;
+session;
+internet;
+|
+Which PDU format is used when bits are received from the network medium by the NIC of a host?;
+file;
+frame;
+packet;
+segment;
+frame;
+|
+At which layer of the OSI model would a logical address be added during encapsulation?;
+physical layer;
+data link layer;
+network layer;
+transport layer;
+network layer;
+|
+What is a characteristic of multicast messages?;
+They are sent to a select group of hosts.;
+They are sent to all hosts on a network.;
+They must be acknowledged.;
+They are sent to a single destination.;
+They are sent to a select group of hosts.;
+|
+Which statement is correct about network protocols?;
+Network protocols define the type of hardware that is used and how it is mounted in racks.;
+They define how messages are exchanged between the source and the destination.;
+They all function in the network access layer of TCP/IP.;
+They are only required for exchange of messages between devices on remote networks.;
+They define how messages are exchanged between the source and the destination;
+|
+What is an advantage of network devices using open standard protocols?;
+Network communications is confined to data transfers between devices from the same vendor.;
+A client host and a server running different operating systems can successfully exchange data.;
+Internet access can be controlled by a single ISP in each market.;
+Competition and innovation are limited to specific types of products.;
+A client host and a server running different operating systems can successfully exchange data.;
+|
+Which device performs the function of determining the path that messages should take through internetworks?;
+a router;
+a firewall;
+a web server;
+a DSL modem;
+a router;
+|
